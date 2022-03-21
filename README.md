@@ -2,7 +2,7 @@
 
 <img src="https://github.com/wesleyegberto/wesleyegberto/raw/master/img/nebuchadnezzar.jpeg" width="100%" alt="Nebuchadnezzar">
 
-### Techs
+### 💻 Techs
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -16,13 +16,13 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Stats
+### 📊 Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleyegberto&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&custom_title=My%20Github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyegberto&langs_count=10&theme=gruvbox&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-### Blog posts
+### 📓 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Angular - Testes de Componentes](https://dev.to/wesleyegberto/angular-testes-de-componentes-32of)
 - [Github Actions - Introdução com Java](https://dev.to/wesleyegberto/github-actions-introducao-com-java-1g4m)
