@@ -24,4 +24,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular - Testes de Componentes](https://dev.to/wesleyegberto/angular-testes-de-componentes-32of)
+- [Github Actions - Introdução com Java](https://dev.to/wesleyegberto/github-actions-introducao-com-java-1g4m)
+- [Spring Boot - Estratégias para testar Rest API](https://dev.to/wesleyegberto/spring-boot-estrategias-para-testar-rest-api-2nc6)
+- [Angular - Testes de Pipes e Services](https://dev.to/wesleyegberto/angular-testes-de-pipes-e-services-41jm)
+- [Maven - Resources Dinâmicos](https://dev.to/wesleyegberto/maven-resources-dinamicos-mn3)
 <!-- BLOG-POST-LIST:END -->
