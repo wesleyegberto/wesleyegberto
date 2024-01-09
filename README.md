@@ -24,9 +24,9 @@
 
 ### 📓 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evolução do Switch no Java](https://dev.to/wesleyegberto/evolucao-do-switch-no-java-in5)
 - [Neovim - Workflow para Java, C# e JS/TypeScript &lpar;Atualização com Neovim 0.8 e LSP&rpar;](https://dev.to/wesleyegberto/neovim-workflow-para-java-c-e-jstypescript-atualizacao-com-neovim-08-e-lsp-4jih)
 - [Angular - Testes de Componentes](https://dev.to/wesleyegberto/angular-testes-de-componentes-32of)
 - [Github Actions - Introdução com Java](https://dev.to/wesleyegberto/github-actions-introducao-com-java-1g4m)
 - [Spring Boot - Estratégias para testar Rest API](https://dev.to/wesleyegberto/spring-boot-estrategias-para-testar-rest-api-2nc6)
-- [Angular - Testes de Pipes e Services](https://dev.to/wesleyegberto/angular-testes-de-pipes-e-services-41jm)
 <!-- BLOG-POST-LIST:END -->
